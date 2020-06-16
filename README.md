@@ -48,4 +48,4 @@ This module on freecodecamp was very similar to the one that I have listed earli
 #### Algorithms 
 This was a very impactful module because it encouraged me to think a lot more before actually creating a program. For example, it forced me to learn how to make code that did not only "get the job done", but also did its task in the most efficient and effective manner. This kind of algorithmic thinking will really help me in other fields of studying, especially physics, where I found that the best answer was not only the right answer, but also the faster answer.   
 
-####[Click Here to View Some of the Programs I Have Created](https://danial-d.github.io/Portfolio/BarrierGame/)
+[Click Here to View My Creative Refactoring of Dan Shiffman's Smart Rockets Program](https://danial-d.github.io/Portfolio/BarrierGame/)
