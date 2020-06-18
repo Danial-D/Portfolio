@@ -60,8 +60,8 @@ The biggest thing that I learned from cubing is to not be afraid to start tackli
 ## Creative Refactorings 
 I have refactored a couple things. The first is Dan Shiffman's smart rockets program. In this program, there is a barrier that stops rockets from reaching a location. By adding a "moveable barrier object", I created a barrier that moves left and right (within a certain range), therby creating a moveable barrier. The second thing that I refactored was a classmate's Tic-Tac-Toe game. To refactor this game, I took the draw function, which drew the grid and the X/Os that the players created, and created a seperate drawgrid function and a seperate drawX/O function. Afterwards, I used this to make it so that some of the placements became invisible. As a result, the players would have to keep track of where they placed their X or O's, therby turning tic-tac-toe into more of a memory game. The third creative refactoring I did was of a classmate's countdown timer. In the original code, the counter would countdown to a time, and after it reached the time, you would have to refresh the page to set a new countdown. To make it so that someone could add a new countdown timer without refreshing the page, I made it so that the program would start the timer every  time they clicked off the input box or hit enter. I did this by using a input.changed(createTimer) function.  
 
-[Click Here to View My Creative Refactoring of Dan Shiffman's Smart Rockets Program](https://danial-d.github.io/Portfolio/BarrierGame/)
-[Click Here to View My Creative Refactoring of a Classmate's Tic-Tac-Toe Game](https://danial-d.github.io/Portfolio/TicTacToeRefactor/)
-[Click Here to View My Classmate's Original Tic-Tac-Toe Game](https://editor.p5js.org/dderh1/sketches/a47mu5WFU)
-[Click Here to View My Creative Refactoring of a Classmate's Countdown Timer](https://danial-d.github.io/Portfolio/CounterRefactor/)
-[Click Here to View My Classmate's Original Countdown Timer](https://editor.p5js.org/FezGuuy/sketches/Fq5dgmRAY)
+[Click Here to View My Creative Refactoring of Dan Shiffman's Smart Rockets Program](https://danial-d.github.io/Portfolio/BarrierGame/)  
+[Click Here to View My Creative Refactoring of a Classmate's Tic-Tac-Toe Game](https://danial-d.github.io/Portfolio/TicTacToeRefactor/)  
+[Click Here to View My Classmate's Original Tic-Tac-Toe Game](https://editor.p5js.org/dderh1/sketches/a47mu5WFU)  
+[Click Here to View My Creative Refactoring of a Classmate's Countdown Timer](https://danial-d.github.io/Portfolio/CounterRefactor/)  
+[Click Here to View My Classmate's Original Countdown Timer](https://editor.p5js.org/FezGuuy/sketches/Fq5dgmRAY)  
